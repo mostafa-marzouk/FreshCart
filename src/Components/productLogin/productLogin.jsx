@@ -1,5 +1,5 @@
 import React from 'react'
-import style from './ProductLogin.module.css'
+import style from './productLogin.module.css'
 import { Navigate } from 'react-router-dom'
 
 export default function ProductLogin(props) {
